@@ -169,7 +169,8 @@ body.dark-theme{
 }
 
 .profile_perfil img{
-  /* width: 75px; */
+  width:100px;
+  height: inherit;
 }
 
 .profile_border{
@@ -206,7 +207,7 @@ body.dark-theme{
   transition: .3s;
 }
 
-.profofile_social-link:hover{
+.profile_social-link:hover{
   color: var(--first-color);
 }
 
